@@ -11,8 +11,8 @@
   DTS:LocaleID="1058"
   DTS:ObjectName="ETL"
   DTS:PackageType="5"
-  DTS:VersionBuild="28"
-  DTS:VersionGUID="{027B0A1F-5E71-4AC8-8263-EC07985601F3}">
+  DTS:VersionBuild="30"
+  DTS:VersionGUID="{C5188CBF-DB7B-4C0C-83E0-32DDFC1A00E9}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -46,118 +46,118 @@
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Series_reference"
-              DTS:DTSID="{63B273CE-BE9B-4A06-85BE-91A1E8CF89D5}"
+              DTS:DTSID="{CFF46F79-FAD4-43B3-B95E-8D1942EEC8C7}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Period"
-              DTS:DTSID="{3693A60C-E5E0-4379-9890-23E80B942B50}"
+              DTS:DTSID="{C3967F3D-C152-4E17-94FB-D86CCE1958C5}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Type"
-              DTS:DTSID="{954C44F8-0F2B-4DD4-AEAA-9D48C754797D}"
+              DTS:DTSID="{080ED46B-9FC5-44E0-8348-5E0414C79B07}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Data_value"
-              DTS:DTSID="{258F1100-7343-405E-BE2C-CC8FB530A14D}"
+              DTS:DTSID="{FDDFB945-B038-46EE-9E21-672FA2E0C55C}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Lower_CI"
-              DTS:DTSID="{640A0A4A-BAE1-456F-8E00-77D5DA04D804}"
+              DTS:DTSID="{9B3A0BE3-0061-49D7-A6D9-2E96BEBFDD67}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Upper_CI"
-              DTS:DTSID="{B123DF51-9926-4078-8FA9-4419CE5BBC39}"
+              DTS:DTSID="{550CAD71-08E1-4456-BE33-53CAC7045807}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Units"
-              DTS:DTSID="{7FE4A57F-37D1-43CF-9B8E-2FB82EFB5772}"
+              DTS:DTSID="{19920C4F-CA17-42D7-96F5-85A006C9E3FC}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Indicator"
-              DTS:DTSID="{A87CDA9A-CCCD-498A-9A43-66A97F63B8B5}"
+              DTS:DTSID="{053B93D8-C48B-4A1F-A93F-01C06088DB83}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Cause"
-              DTS:DTSID="{474E6B0E-7F56-4B20-B4A5-99FD79CE60A4}"
+              DTS:DTSID="{96C26463-7F56-4110-A61D-7E75D38F8121}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Validation"
-              DTS:DTSID="{46C4B044-DD0B-4167-9226-0854D0212D4D}"
+              DTS:DTSID="{58480EF7-4ED0-46E0-9862-FC6F049CA828}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Population"
-              DTS:DTSID="{996DAAAA-5E2C-4F64-9DB1-15B34E3E3987}"
+              DTS:DTSID="{188B6D4F-2268-4C7F-8EE7-C63475E41B19}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Age"
-              DTS:DTSID="{02D2D3F4-864F-4926-BB8C-AFFE6D5956D6}"
+              DTS:DTSID="{75E28BD2-BFF6-4134-9621-C0A08158F990}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x000D__x000A_"
               DTS:MaximumWidth="50"
-              DTS:DataType="129"
+              DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Severity"
-              DTS:DTSID="{1DCFBFB5-4E54-4E3A-BC13-355D6A3A7A5D}"
+              DTS:DTSID="{28B5207A-319A-4B28-9BF0-DC0860750849}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -195,8 +195,7 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Data Flow Task\Conditional Split.Inputs[Conditional Split Input].Columns[Type]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Type"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Type]" />
@@ -304,8 +303,7 @@
                   <outputColumns>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Series_reference]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Series_reference]"
@@ -326,8 +324,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Period]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Period]"
@@ -348,8 +345,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Type]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Type]"
@@ -370,8 +366,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Data_value]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Data_value]"
@@ -392,8 +387,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Lower_CI]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Lower_CI]"
@@ -414,8 +408,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Upper_CI]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Upper_CI]"
@@ -436,8 +429,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Units]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Units]"
@@ -458,8 +450,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Indicator]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Indicator]"
@@ -480,8 +471,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Cause]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Cause]"
@@ -502,8 +492,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Validation]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Validation]"
@@ -524,8 +513,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Population]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Population]"
@@ -546,8 +534,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Age]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Age]"
@@ -568,8 +555,7 @@
                     </outputColumn>
                     <outputColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Severity]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Severity]"
@@ -593,80 +579,67 @@
                     isUsed="True">
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Series_reference]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Series_reference" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Period]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Period" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Type]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Type" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Data_value]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Data_value" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Lower_CI]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Lower_CI" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Upper_CI]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Upper_CI" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Units]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Units" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Indicator]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Indicator" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Cause]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Cause" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Validation]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Validation" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Population]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Population" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Age]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Age" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].ExternalColumns[Severity]"
-                      codePage="1251"
-                      dataType="str"
+                      dataType="wstr"
                       length="50"
                       name="Severity" />
                   </externalMetadataColumns>
@@ -701,6 +674,420 @@
               </outputs>
             </component>
             <component
+              refId="Package\Data Flow Task\Data Conversion"
+              componentClassID="Microsoft.DataConvert"
+              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Data Conversion"
+              name="Data Conversion"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input]"
+                  name="Data Conversion Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Series_reference]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Series_reference"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Series_reference]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Period]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Period"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Period]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Type]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Type"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Type]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Data_value]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Data_value"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Data_value]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Lower_CI]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Lower_CI"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Lower_CI]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Upper_CI]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Upper_CI"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Upper_CI]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Units]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Units"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Units]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Indicator]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Indicator"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Indicator]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Cause]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Cause"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Cause]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Validation]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Validation"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Validation]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Population]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Population"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Population]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Age]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Age"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Age]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[Severity]"
+                      cachedCodepage="1251"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Severity"
+                      lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Severity]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output]"
+                  exclusionGroup="1"
+                  name="Data Conversion Output"
+                  synchronousInputId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Series_reference]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Series_reference]"
+                      name="Copy of Series_reference"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Series_reference]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Period]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Period]"
+                      name="Copy of Period"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Period]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Type]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Type]"
+                      name="Copy of Type"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Type]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Data_value]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Data_value]"
+                      name="Copy of Data_value"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Data_value]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Lower_CI]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Lower_CI]"
+                      name="Copy of Lower_CI"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Lower_CI]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Upper_CI]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Upper_CI]"
+                      name="Copy of Upper_CI"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Upper_CI]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Units]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Units]"
+                      name="Copy of Units"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Units]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Indicator]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Indicator]"
+                      name="Copy of Indicator"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Indicator]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Cause]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Cause]"
+                      name="Copy of Cause"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Cause]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Validation]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Validation]"
+                      name="Copy of Validation"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Validation]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Population]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Population]"
+                      name="Copy of Population"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Population]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Age]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Age]"
+                      name="Copy of Age"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Age]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Severity]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Severity]"
+                      name="Copy of Severity"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Severity]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Data Conversion Error Output"
+                  synchronousInputId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Data Flow Task\Derived Column"
               componentClassID="Microsoft.DerivedColumn"
               contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
@@ -715,29 +1102,25 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Data Flow Task\Derived Column.Inputs[Derived Column Input].Columns[Period]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Period"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Period]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Derived Column.Inputs[Derived Column Input].Columns[Data_value]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Data_value"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Data_value]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Derived Column.Inputs[Derived Column Input].Columns[Lower_CI]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Lower_CI"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Lower_CI]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Derived Column.Inputs[Derived Column Input].Columns[Upper_CI]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Upper_CI"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Upper_CI]" />
@@ -943,104 +1326,91 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Series_reference]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Series_reference"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Series_reference]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Series_reference]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Period]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Period"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Period]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Period]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Type]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Type"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Type]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Type]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Data_value]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Data_value"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Data_value]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Data_value]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Lower_CI]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Lower_CI"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Lower_CI]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Lower_CI]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Upper_CI]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Upper_CI"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Upper_CI]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Upper_CI]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Units]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Units"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Units]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Units]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Indicator]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Indicator"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Indicator]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Indicator]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Cause]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Cause"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Cause]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Cause]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Validation]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Validation"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Validation]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Validation]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Population]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Population"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Population]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Population]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Age]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Age"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Age]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Age]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].Columns[Severity]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Severity"
                       externalMetadataColumnId="Package\Data Flow Task\Practica_11 MovingAverage.Inputs[OLE DB Destination Input].ExternalColumns[Severity]"
@@ -1268,104 +1638,91 @@
                   <inputColumns>
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Series_reference]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Series_reference"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Series_reference]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Series_reference]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Period]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Period"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Period]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Period]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Type]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Type"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Type]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Type]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Data_value]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Data_value"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Data_value]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Data_value]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Lower_CI]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Lower_CI"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Lower_CI]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Lower_CI]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Upper_CI]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Upper_CI"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Upper_CI]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Upper_CI]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Units]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Units"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Units]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Units]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Indicator]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Indicator"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Indicator]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Indicator]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Cause]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Cause"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Cause]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Cause]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Validation]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Validation"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Validation]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Validation]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Population]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Population"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Population]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Population]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Age]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Age"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Age]"
                       lineageId="Package\Data Flow Task\csv_sourse.Outputs[Flat File Source Output].Columns[Age]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].Columns[Severity]"
-                      cachedCodepage="1251"
-                      cachedDataType="str"
+                      cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Severity"
                       externalMetadataColumnId="Package\Data Flow Task\Pracyica_11 SingleYear.Inputs[OLE DB Destination Input].ExternalColumns[Severity]"
@@ -1617,13 +1974,13 @@
           Id="Package\Data Flow Task"
           TopLeft="261,276" />
         <NodeLayout
-          Size="173,42"
-          Id="Package\Sequence Container\Trancate SingleYear"
-          TopLeft="22,20" />
-        <NodeLayout
           Size="196,42"
           Id="Package\Sequence Container\Trancate MovingAverage"
           TopLeft="219,22" />
+        <NodeLayout
+          Size="173,42"
+          Id="Package\Sequence Container\Trancate SingleYear"
+          TopLeft="22,20" />
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
@@ -1666,57 +2023,25 @@
           Id="Package\Data Flow Task\csv_sourse"
           TopLeft="305,47" />
         <NodeLayout
-          Size="193,42"
-          Id="Package\Data Flow Task\Pracyica_11 SingleYear"
-          TopLeft="165,285" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Data Flow Task\Derived Column"
-          TopLeft="296,118" />
-        <NodeLayout
           Size="155,42"
           Id="Package\Data Flow Task\Conditional Split"
           TopLeft="297,197" />
         <NodeLayout
+          Size="193,42"
+          Id="Package\Data Flow Task\Pracyica_11 SingleYear"
+          TopLeft="165,285" />
+        <NodeLayout
+          Size="156,42"
+          Id="Package\Data Flow Task\Data Conversion"
+          TopLeft="65,113" />
+        <NodeLayout
           Size="208,42"
           Id="Package\Data Flow Task\Practica_11 MovingAverage"
           TopLeft="391,285" />
-        <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Single year]"
-          TopLeft="374.5,239">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-113,46"
-              Start="0,0"
-              End="-113,38.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,19" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,19"
-                    Point2="0,23"
-                    Point3="-4,23" />
-                  <mssgle:LineSegment
-                    End="-109,23" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-109,23"
-                    Point2="-113,23"
-                    Point3="-113,27" />
-                  <mssgle:LineSegment
-                    End="-113,38.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-81.65935546875,28,50.3187109375,11.6630859375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Data Flow Task\Derived Column"
+          TopLeft="296,118" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Moving average]"
           TopLeft="399,239">
@@ -1754,30 +2079,6 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Flat File Source Output]"
-          TopLeft="371.75,89">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,29"
-              Start="0,0"
-              End="0,21.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,21.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-8,2.75,16,16"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package\Data Flow Task.Paths[Derived Column Output]"
           TopLeft="373.75,160">
           <EdgeLayout.Curve>
@@ -1799,11 +2100,69 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Data Flow Task.Paths[Single year]"
+          TopLeft="374.5,239">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-113,46"
+              Start="0,0"
+              End="-113,38.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,19" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,19"
+                    Point2="0,23"
+                    Point3="-4,23" />
+                  <mssgle:LineSegment
+                    End="-109,23" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-109,23"
+                    Point2="-113,23"
+                    Point3="-113,27" />
+                  <mssgle:LineSegment
+                    End="-113,38.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-81.65935546875,28,50.3187109375,11.6630859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Data Flow Task.Paths[Flat File Source Output]"
+          TopLeft="371.75,89">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,29"
+              Start="0,0"
+              End="0,21.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,21.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\Practica_11 MovingAverage">
+    design-time-name="Package\Data Flow Task\Pracyica_11 SingleYear">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -1816,7 +2175,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\Pracyica_11 SingleYear">
+    design-time-name="Package\Data Flow Task\Practica_11 MovingAverage">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
